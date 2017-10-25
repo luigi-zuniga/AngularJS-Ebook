@@ -1,23 +1,33 @@
 {
-    "name":"ebook-frontend-proyect",
-    "version":"0.0.1",
-    "description":"Ejemplo de desarrollo web con Javascript",
-    "bugs":{
-                    "url":"https://guthub.com/luigi-zuniga/Practicas-AngularJS",
-                    "email":"luis.alberto.zuniga@outlook.com"
-                    },
-    "license":"MIT",
-    "author":
-                    {
-                        "name":"luigi zuñiga",
-                        "email":"luis.alberto.zuniga@outlook.com",
-                        "url":"https://guthub.com/luigi-zuniga/Practicas-AngularJS"
-
-                    },
-    "repository":{
-                    "type":"git",
-                    "url":"https://guthub.com/luigi-zuniga/Practicas-AngularJS",
-                    },
-    "dependencies":{},
-    "devDependencies":{}
+  "name": "ebook-frontend-proyect",
+  "version": "0.0.1",
+  "description": "Ejemplo de desarrollo web con Javascript",
+  "bugs": {
+    "url": "https://github.com/luigi-zuniga/AngularJS-Ebook",
+    "email": "luis.alberto.zuniga@outlook.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "luigi-zuniga",
+    "email": "luis.alberto.zuniga@outlook.com",
+    "url": "https://github.com/luigi-zuniga/AngularJS-Ebook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luigi-zuniga/AngularJS-Ebook"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "connect-history-api-fallback": "^1.4.0",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-if": "^2.0.2",
+    "gulp-jshint": "^2.0.4",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-server-livereload": "^1.9.2",
+    "gulp-stylus": "^2.6.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-useref": "^3.1.2",
+    "nib": "^1.1.2"
+  }
 }

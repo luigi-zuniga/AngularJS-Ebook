@@ -1,3 +1,6 @@
 {
-    "name":
+    "name":"ebook-frontend-proyect",
+    "version":"0.0.1",
+    "description":"Ejemplo de desarrollo con javascript",
+    "dependencies":{}
 }
