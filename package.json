@@ -1,0 +1,23 @@
+{
+    "name":"ebook-frontend-proyect",
+    "version":"0.0.1",
+    "description":"Ejemplo de desarrollo web con Javascript",
+    "bugs":{
+                    "url":"https://guthub.com/luigi-zuniga/Practicas-AngularJS",
+                    "email":"luis.alberto.zuniga@outlook.com"
+                    },
+    "license":"MIT",
+    "author":
+                    {
+                        "name":"luigi zuñiga",
+                        "email":"luis.alberto.zuniga@outlook.com",
+                        "url":"https://guthub.com/luigi-zuniga/Practicas-AngularJS"
+
+                    },
+    "repository":{
+                    "type":"git",
+                    "url":"https://guthub.com/luigi-zuniga/Practicas-AngularJS",
+                    },
+    "dependencies":{},
+    "devDependencies":{}
+}
